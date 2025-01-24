@@ -1,4 +1,4 @@
-# 👋 Hello fren! my name is Omid Alekaisr!
+# 👋 Hello fren! My name is Omid Alekaisr!
 
 🌟 Welcome to my GitHub profile!
 I'm an M.Sc. control engineer at K.N. Toosi University of Technology with a strong background in artificial intelligence and image processing techniques. My thesis focused on developing a novel data-driven control (DDC) method.
@@ -24,7 +24,6 @@ Feel free to connect with me through any of the following platforms:
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I love to work with:
 - **Languages:** Python, C#, C++, MATLAB
-- **Frameworks:** 
-  - **Machine Learning:** TensorFlow, PyTorch (if applicable)
-  - **Embedded Systems:** Arduino libraries
-- **Tools:** Git, Visual Studio Code, MPLAB X (for PIC programming), Atmel Studio (for AVR programming)
+- **Machine Learning:** TensorFlow, Scipy, PyTorch
+- **Embedded Systems:** Jetson, Arduino, AVR, PIC
+- **Tools:** Git, Visual Studio Code, Altium Designer, MPLAB X (for PIC programming), Atmel Studio (for AVR programming)

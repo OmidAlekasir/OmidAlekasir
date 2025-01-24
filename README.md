@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello fren! my name is Omid Alekaisr!
 
-<!--
-**OmidAlekasir/OmidAlekasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Welcome to my GitHub profile!
+I'm an M.Sc. control engineer at K.N. Toosi University of Technology with a strong background in artificial intelligence and image processing techniques. My thesis focused on developing a novel data-driven control (DDC) method.
 
-Here are some ideas to get you started:
+🌱 I primarily work with image processing tools, but I'm really enthusiastic about learning more about crypto and blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 How to Reach Me
+Feel free to connect with me through any of the following platforms:
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/omidalekasir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+  <a href="majid.alekasir@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+Here are some of the technologies and tools I love to work with:
+- **Languages:** Python, C#, C++, MATLAB
+- **Frameworks:** 
+  - **Machine Learning:** TensorFlow, PyTorch (if applicable)
+  - **Embedded Systems:** Arduino libraries
+- **Tools:** Git, Visual Studio Code, MPLAB X (for PIC programming), Atmel Studio (for AVR programming)

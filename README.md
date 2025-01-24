@@ -11,10 +11,10 @@ I'm an M.Sc. control engineer at K.N. Toosi University of Technology with a stro
 Feel free to connect with me through any of the following platforms:
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/omidalekasir" target="_blank">
+  <a href="https://www.linkedin.com/in/majidalekasir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Profile" />
   </a>
-  <a href="majid.alekasir@gmail.com" target="_blank">
+  <a href="mailto:majid.alekasir@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
